@@ -99,7 +99,7 @@ python portarama.py \
 ### Grafiksel Arayüz (GUI)
 
 ```bash
-python gui.py
+python Arayuz.py
 ```
 
 1. **Hedef** kutusuna IP/aralık veya `.txt` dosya seçin.
