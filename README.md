@@ -123,27 +123,13 @@ python gui.py
 
 ## 🖼️ Ekran Görüntüleri
 
+![image](https://github.com/user-attachments/assets/fbba86bc-0de9-45af-a485-73c1ded36bbd)
 
 
 ---
 
-## 🤝 Katkıda Bulunanlar
+![image](https://github.com/user-attachments/assets/d152b9dd-33c8-4119-9b68-4b15bf1333c2)
 
-- **Berke TOKSÖZ** – Proje yazılım mimarisi ve geliştirme
-- **Dr. Semih KORKMAZ** – Danışman
 
-Yeni özellikler, hata düzeltmeleri veya iyileştirmeler için pull request’leri bekliyoruz! Lütfen önce bir issue açarak ne yapmak istediğinizi tartışın.
 
----
-
-## 📄 Lisans
-
-Bu proje [MIT License](LICENSE) ile lisanslanmıştır.
-
----
-
-### İletişim
-
-Berke TOKSÖZ – [berke@example.com](mailto\:berke@example.com)\
-Bandırma Onyedi Eylül Üniversitesi, Bilgisayar Mühendisliği
 
