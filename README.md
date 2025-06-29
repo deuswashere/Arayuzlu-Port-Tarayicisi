@@ -123,7 +123,6 @@ python gui.py
 
 ## 🖼️ Ekran Görüntüleri
 
-![image](https://github.com/user-attachments/assets/fbba86bc-0de9-45af-a485-73c1ded36bbd)
 
 
 ---
