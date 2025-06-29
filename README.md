@@ -71,18 +71,6 @@ Arayüzlü Port Tarayıcısı
    source venv/bin/activate
    ```
 
-3. Gerekli paketleri yükleyin:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. `portlist.txt` ve `popularport.txt` dosyalarını oluşturmak için (opsiyonel):
-
-   ```bash
-   python generate_portlists.py
-   ```
-
 ---
 
 ## 💡 Kullanım
