@@ -73,7 +73,7 @@ Arayüzlü Port Tarayıcısı
 
 ---
 
-## 💡 Kullanım
+##  Kullanım
 
 ### Komut Satırı (CLI)
 
@@ -109,7 +109,7 @@ python gui.py
 
 ---
 
-## 🖼️ Ekran Görüntüleri
+## 🖼 Ekran Görüntüleri
 
 
 
